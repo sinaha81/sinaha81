@@ -3,9 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinaha81&label=Profile%20views&color=0e75b6&style=flat" alt="sinaha81" /> </p>
 
-
-![Contribution Snake](https://raw.githubusercontent.com/sinaha81/sinaha81/output/snake.svg)
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sinaha81/sinaha81/output/pacman-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sinaha81/sinaha81/output/pacman-light.svg"
+  />
+  <img
+    alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/sinaha81/sinaha81/output/pacman-light.svg"
+  />
+</picture>
 
 
 
