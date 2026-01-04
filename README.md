@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinaha81&label=Profile%20views&color=0e75b6&style=flat" alt="sinaha81" /> </p>
 
 
-![Pacman contribution graph](https://raw.githubusercontent.com/sinaha81/sinaha81/output/pacman.svg)
+![Contribution Snake](https://raw.githubusercontent.com/sinaha81/sinaha81/output/snake.svg)
+
 
 
 
