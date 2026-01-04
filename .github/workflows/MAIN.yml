@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Pacman (Dark & Light)
 
 on:
   schedule:
@@ -16,12 +16,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate snake SVG
+      - name: Generate Pacman SVG (dark & light)
         uses: Platane/snk@v3
         with:
           github_user_name: sinaha81
           outputs: |
-            dist/snake.svg
+            dist/pacman-light.svg
+            dist/pacman-dark.svg
+          color_snake: "#f7c843"
+          color_dots: "#58a6ff,#1f6feb,#0d1117"
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
