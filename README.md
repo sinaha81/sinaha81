@@ -4,14 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinaha81&label=Profile%20views&color=0e75b6&style=flat" alt="sinaha81" /> </p>
 
 
+![Pacman contribution graph](https://raw.githubusercontent.com/sinaha81/sinaha81/output/pacman.svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
-###
 
 
 <!--
